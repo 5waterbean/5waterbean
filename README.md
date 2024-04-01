@@ -1,5 +1,8 @@
-### Hi there 👋
+Subeen
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F5waterbean&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/></a>
 
+Studying
+<img src = "https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000"/>
 <!--
 **5waterbean/5waterbean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
