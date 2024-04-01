@@ -1,5 +1,5 @@
 <div align=center>
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome! Subeen's Github&fontSize=80" />	
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hello!&fontSize=90" />	
 </div>
 <div align=center>
 	<h3>📚 Tech Stack 📚</h3>
@@ -36,4 +36,3 @@
 <div align=center>
 	<br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=5waterbean&layout=compact">
-<img src="https://github-readme-stats.vercel.app/api?username=5waterbean&show_icons=true">
